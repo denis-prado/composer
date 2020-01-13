@@ -1,0 +1,15 @@
+#Estrutura de instalação:
+{
+	"require": {
+		"kevinlebrun/slug.php":"*" 
+	}
+}
+
+#OBS
+Na linha 4 é passado o nome da biblioteca e sua versão (*)
+
+#INSTALAÇÃO 
+No terminal é nescessário estar dentro do diretório e passar o comando 'composer install' após a instalação será gerado algumas pastas com arquivos.
+
+#REMOÇÃO
+Para a remoção da biblioteca basta excluir a linha com o nome e versão e dar um 'composer update'
